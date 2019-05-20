@@ -1,0 +1,10 @@
+{
+    "date": "2019-04-17 20:15:25",
+    "data_file": "data.csv",
+    "target_file": "target.csv",
+    "model_file": "pls_model.json",
+    "config_file": "pls_config.json",
+    "testset_ratio": 0.33,
+    "max_components": 4,
+    "max_outliers": 20
+}
